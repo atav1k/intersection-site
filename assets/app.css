@@ -1,0 +1,11 @@
+:root {
+  --columns-width: 110rem;
+  --state-primary: #52D589;
+  --column-gutter: 4rem;
+}
+
+@media screen and (max-width: 768px) {
+  :root {
+    --hdg: 1.5rem;
+  }
+}
